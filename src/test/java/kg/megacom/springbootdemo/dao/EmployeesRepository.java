@@ -1,4 +1,4 @@
-package kg.megacom.springbootdemo.repository;
+package kg.megacom.springbootdemo.dao;
 
 public interface EmployeesRepository {
     

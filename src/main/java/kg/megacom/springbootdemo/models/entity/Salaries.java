@@ -1,5 +1,6 @@
-package kg.megacom.springbootdemo.models;
+package kg.megacom.springbootdemo.models.entity;
 
+import kg.megacom.springbootdemo.models.entity.Employee;
 import lombok.Data;
 
 import javax.persistence.Entity;

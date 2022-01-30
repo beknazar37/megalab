@@ -1,4 +1,4 @@
-package kg.megacom.springbootdemo.models;
+package kg.megacom.springbootdemo.models.entity;
 
 import lombok.Data;
 
